@@ -1,0 +1,14 @@
+Job Title: Junior Software Developer
+Responsibilities:
+
+Develop and maintain web applications using Python and JavaScript.
+
+Collaborate with team members using Git and Agile tools.
+
+Assist in debugging, testing, and code reviews.
+
+Requirements:
+
+Strong understanding of programming fundamentals.
+
+Familiarity with web development and REST APIs.
